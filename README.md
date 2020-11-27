@@ -7,3 +7,4 @@ projectCNN.py    : CNN卷积神经网络的实现与详解
 ```
 
 ![img](img1.png)
+![img](img2.png)
